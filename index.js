@@ -24,7 +24,7 @@ class Lunch{
 }
 
 class Dinner{
-  constructor(sala,soup,entree,dessert){
+  constructor(salad,soup,entree,dessert){
 
     this.sala=salad;
     this.soup=soup;
