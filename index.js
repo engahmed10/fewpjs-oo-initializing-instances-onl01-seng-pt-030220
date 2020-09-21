@@ -1,1 +1,4 @@
-// Write your code here
+class Breakfast
+{
+  
+}// Write your code here
