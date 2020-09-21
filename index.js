@@ -11,11 +11,20 @@ class Breakfast
 
 class Lunch{
 
+  constructor(name){
+
+    this.name=name
+  }
+
 
 
 }
 
 class Dinner{
+  constructor(name){
+
+    this.name=name;
+  }
 
 
 }
